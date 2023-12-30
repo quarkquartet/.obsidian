@@ -1,0 +1,9 @@
+{
+  "citationExportFormat": "biblatex",
+  "literatureNoteTitleTemplate": "@{{citekey}}",
+  "literatureNoteFolder": "10-Physics and Math/1001-Literature",
+  "literatureNoteContentTemplate": "---\ntitle: \"{{title}}\"\nauthors: {{authorString}}\nyear: {{year}}\n---\n```ad-info\ntitle: Paper Info\n- **Title**: {{title}}\n- **Authors**: {{authorString}}\n- **Year**: {{year}}\n- **Url**: {{URL}}\n- **arXiv**: {{eprint}}\n- **Local Library**: [Zotero Library]({{zoteroSelectURI}})\n```\n```ad-abstract\n{{abstract}}\n```\n\n----\n",
+  "markdownCitationTemplate": "[cite:{{citekey}}]",
+  "alternativeMarkdownCitationTemplate": "cite:{{citekey}}",
+  "citationExportPath": "10-Physics and Math/1001-Literature/Library.bib"
+}

@@ -1,0 +1,140 @@
+{
+  "main": {
+    "id": "283e5d0cb60bc260",
+    "type": "split",
+    "children": [
+      {
+        "id": "0a7552f796068f12",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "770b09fd39c64941",
+    "type": "split",
+    "children": [
+      {
+        "id": "d73c5f881286d934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "80e5ceb0eac8ff59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2760a78f83a34bf4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#research",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a2eab6cf5176ec6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 246.5,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2973bcbe2a85039d",
+    "type": "split",
+    "children": [
+      {
+        "id": "89fe8a9c33ad3c1d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0157e69d1839c2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "67c6096e9e5e4816",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8104c282ae14696",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "74fe71c31f6e37d7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "0444bba0741356b8",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "80e5ceb0eac8ff59",
+  "lastOpenFiles": [
+    "02-Projects/Untitled.md",
+    "10-Physics and Math/1001-Literature/heleniusHardSoftPhotoproduction.md",
+    "03-Meeting Notes/10-11-2022, Keisuke.md",
+    "34-Marriage/Invitation for the bbq party.md",
+    "34-Marriage/Attachments/Pasted image 20221011223229.png",
+    "inbox.md",
+    "01-Management/Task and Agenda View.md",
+    "01-Management/Errands.md",
+    "02-Projects/2021-9 Local-EWBG-with-Parity.md",
+    "30-Sports/3003-Swimming/自由泳陆上训练合集.md"
+  ]
+}

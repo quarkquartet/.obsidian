@@ -1,0 +1,307 @@
+{
+  "main": {
+    "id": "283e5d0cb60bc260",
+    "type": "split",
+    "children": [
+      {
+        "id": "53d2d0e98adc69e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "415a8e4350eb60bf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_Template/weekly_note.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ae84860b7f8d236",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "02-Projects/2023-12 Probing Freeze-out Mediator/2023-12 Thermal-Relic Encyclopedia.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "91acff93adfbd2ca",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8da8760c68e38ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "00-Diary/2023/2023-12-24-W52.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "770b09fd39c64941",
+    "type": "split",
+    "children": [
+      {
+        "id": "d73c5f881286d934",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2760a78f83a34bf4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "49f687cc4f055559",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "8a2eab6cf5176ec6",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "a5c9e8b03b185f43",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 254.50260543823242
+  },
+  "right": {
+    "id": "2973bcbe2a85039d",
+    "type": "split",
+    "children": [
+      {
+        "id": "89fe8a9c33ad3c1d",
+        "type": "tabs",
+        "dimension": 33.29875518672199,
+        "children": [
+          {
+            "id": "74fe71c31f6e37d7",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "64aa12a70d914c25",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "00-Diary/2023/2023-12-24-W52.md"
+              }
+            }
+          },
+          {
+            "id": "dbfb958969564442",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "58f308805ab5486c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "607ed6b10b6a21af",
+        "type": "tabs",
+        "dimension": 66.70124481327801,
+        "children": [
+          {
+            "id": "338c5d889db70146",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "00-Diary/2023/2023-12-24-W52.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e0157e69d1839c2f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "00-Diary/2023/2023-12-24-W52.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a36e31bdb64b2d56",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "alphabetical",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "074538f4a9a0f76d",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          },
+          {
+            "id": "487766eedefc1df4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "00-Diary/2023/2023-12-24-W52.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 295.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-rich-links:Rich Links": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "card-board:CardBoard": false,
+      "dbfolder:Create a new database table": false,
+      "daily-notes:Open today's daily note": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "b8da8760c68e38ea",
+  "lastOpenFiles": [
+    "00-Diary/2023/2023-12-17, Sun.md",
+    "00-Diary/2023/2023-12-10-W50.md",
+    "00-Diary/2023/2023-12-24-W52.md",
+    "_Template/weekly_note.md",
+    "00-Diary/2023/2023-W51.md",
+    "00-Diary/2023/2023-W52.md",
+    "00-Diary/2023/2023-12-30, Sat.md",
+    "00-Diary/2023-W52.md",
+    "00-Diary/2023/2023-12-24-W51.md",
+    "00-Diary/2023/2023-12-30-W52.md",
+    "_Template/daily_note.md",
+    "2023-12-30.md",
+    "00-Diary/2023/2023-12-29, Fri.md",
+    "00-Diary/2023/2023-12-28, Thu.md",
+    "00-Diary/2023/2023-12-27, Wed.md",
+    "00-Diary/2023/2023-12-26, Tue.md",
+    "00-Diary/2023/2023-12-25, Mon.md",
+    "00-Diary/2023/2023-12-24, Sun.md",
+    "_Template/date.md",
+    "00-Diary/2023/2023-12-03-W49.md",
+    "00-Diary/2023/2023-12-17-W51.md",
+    "02-Projects/2023-12 Probing Freeze-out Mediator/2023-12 Thermal-Relic Encyclopedia.md",
+    "00-Diary/2023/2023-12-31, Sun.md",
+    "inbox.md",
+    "00-Diary/2023/2023-01-03, Tue.md",
+    "00-Diary/2022/2022-01-01, Sat.md",
+    "00-Diary/2023",
+    "00-Diary/2022",
+    "00-Diary/2021",
+    "02-Projects/2023-12 Probing Freeze-out Mediator",
+    "02-Projects/Portal Particle Search",
+    "13-Academic Related Reading/李归农语录",
+    "13-Academic Related Reading",
+    "01-Management/Attachments/Pasted image 20231104183001.png",
+    "01-Management/Attachments/IMG_0792.jpeg",
+    "01-Management/Attachments/Pasted image 20231005171317.png",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011555.jpeg",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011555.png",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011555.png.sb-538636d3-AYFsY3",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011540.png",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011513.png",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011501.png",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011433.png",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011357.png",
+    "01-Management/Attachments",
+    "_Template/script/copy_canvas_node_text.js",
+    "Untitled.canvas"
+  ]
+}

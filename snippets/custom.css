@@ -1,0 +1,101 @@
+/* :root {
+    --font-size-normal: 13px;
+    --font-size-code: 13px;
+    --font-size-status-bar: 13px;
+    --font-size-h1: 13px;
+    --font-size-h2: 13px;
+    --font-size-h3: 13px;
+    --font-size-h4: 13px;
+    --font-size-h5: 13px;
+    --font-size-h6: 13px;
+    --font-family-editor: sans-serif;
+    --font-family-preview: sans-serif;
+}
+
+
+
+.body {
+    --h1-size: 1.5em;
+    --h2-size: 1.4em;
+    --h3-size: 1.3em;
+    --h4-size: 1.2em;
+    --h5-size: 1.1em;
+    --h6-size: 1.0em;
+} */
+
+/* body {
+    font-family: Exchange, -apple-system, 'Nimbus Roman No9 L', 'PingFang SC', 'Hiragino Sans GB', 'Noto Serif SC', 'Microsoft Yahei', 'WenQuanYi Micro Hei', 'ST Heiti', sans-serif;
+} */
+
+.titlebar {
+    background-color: var(--background-primary);
+    color: var(--text-normal)
+}
+
+.titlebar-inner {
+    color: var(--text-normal)
+}
+
+.titlebar-text {
+    color: var(--text-normal);
+    background-color: var(--background-primary);
+}
+
+
+
+mjx-math {
+    font-size: 120% !important;
+}
+
+/* body .status-bar {
+    font-family: sans-serif;
+} */
+
+/* .markdown-preview-view,
+.mod-single-child .markdown-preview-view {
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+} */
+
+/* .markdown-source-view.mod-cm6.is-readable-line-width:not(.is-rtl) .cm-contentContainer {
+    max-width: 1500px;
+} */
+
+.markdown-source-view.mod-cm6 .math-block>mjx-container {
+    padding: 0.15em;
+}
+
+.admonition.admonition-content-holder {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.cm-line {
+    line-height: 1.6
+}
+
+.markdown-source-view.mod-cm6 .cm-scroller {
+    padding: 30px
+}
+
+
+.internal-embed {
+    max-width: 500px !important;
+}
+
+/*.cm-line .cm-hmd-frontmatter {
+    font-family: InconsolataGo Nerd Font Mono;
+    font-size: 15px
+}
+
+.cm-s-obsidian span.cm-inline-code {
+    font-family: InconsolataGo Nerd Font Mono;
+    font-size: 15px
+}
+*/
+
+li.plugin-tasks-list-item span.tasks-backlink > a {
+    content: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 36 36'%3E%3Cpath fill='%238899A6' d='M15 9l6-6s6-6 12 0 0 12 0 12l-8 8s-6 6-12 0c-1.125-1.125-1.822-2.62-1.822-2.62l3.353-3.348S14.396 18.396 16 20c0 0 3 3 6 0l8-8s3-3 0-6-6 0-6 0l-3.729 3.729s-1.854-1.521-5.646-.354L15 9z'/%3E%3Cpath fill='%238899A6' d='M20.845 27l-6 6s-6 6-12 0 0-12 0-12l8-8s6-6 12 0c1.125 1.125 1.822 2.62 1.822 2.62l-3.354 3.349s.135-1.365-1.469-2.969c0 0-3-3-6 0l-8 8s-3 3 0 6 6 0 6 0l3.729-3.729s1.854 1.521 5.646.354l-.374.375z'/%3E%3C/svg%3E");
+    height: .9em;
+}

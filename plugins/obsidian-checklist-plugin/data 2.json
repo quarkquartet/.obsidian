@@ -1,0 +1,10 @@
+{
+  "todoPageName": "unsolved",
+  "showChecked": false,
+  "groupBy": "tag",
+  "sortDirection": "a->z",
+  "ignoreFiles": "",
+  "includeFiles": "",
+  "lookAndFeel": "compact",
+  "_collapsedSections": []
+}

@@ -1,0 +1,10 @@
+{
+  "defaultEnvironment": "align*",
+  "customEnvironments": [
+    "align",
+    "equation*",
+    "equation",
+    "figure",
+    "pmatrix"
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "settings": {
+    "migrated": 3,
+    "iconPacksPath": ".obsidian/icons",
+    "fontSize": 16,
+    "emojiStyle": "none",
+    "iconColor": "#187df8",
+    "recentlyUsedIcons": [
+      "TiBook",
+      "LiMail",
+      "FasKitMedical",
+      "RiBankFill",
+      "FasHeart"
+    ],
+    "recentlyUsedIconsSize": 5,
+    "rules": [],
+    "extraMargin": {
+      "top": 0,
+      "right": 4,
+      "bottom": 0,
+      "left": 0
+    },
+    "iconInTabsEnabled": false
+  },
+  "_Template": "TiCode",
+  "00-Diary": "FasBookOpen",
+  "01-Management": "FasClock",
+  "02-Projects": "SiResearchgate",
+  "03-Talks Preparing": "SiSlideshare",
+  "10-Physics and Math": "SiStarship",
+  "11-Computer Technique": "FasLaptopCode",
+  "12-Workflow": "TiDeviceIpad",
+  "20-Politics": "FasFlagUsa",
+  "21-History": "FasHorseHead",
+  "22-Music": "LiMusic",
+  "23-Sports": "TiOlympics",
+  "24-Movie": "RiMovie2Fill",
+  "30-Clothes": "FasShirt",
+  "31-Cars": "FasCar",
+  "32-Travel": "RiFlightTakeoffFill",
+  "33-Marriage": "FasHeart",
+  "34-Finance": "RiBankFill",
+  "35-Health": "FasKitMedical",
+  "inbox.md": "LiMail",
+  "13-Academic Related Reading": "TiBook"
+}

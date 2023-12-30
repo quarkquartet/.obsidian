@@ -1,0 +1,13 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "exercise-content": "multitext",
+    "reading": "checkbox",
+    "exercise": "checkbox",
+    "date": "text",
+    "weekly_note": "text",
+    "note_type": "text"
+  }
+}
