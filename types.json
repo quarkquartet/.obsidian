@@ -6,7 +6,7 @@
     "exercise-content": "multitext",
     "reading": "checkbox",
     "exercise": "checkbox",
-    "date": "text",
+    "date": "date",
     "weekly_note": "text",
     "note_type": "text"
   }

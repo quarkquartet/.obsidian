@@ -9,7 +9,7 @@
     "enabled": true
   },
   "weekly": {
-    "format": "gggg/gggg-MM-DD-[W]ww",
+    "format": "gggg/gggg-[W]ww",
     "template": "_Template/weekly_note.md",
     "folder": "00-Diary",
     "enabled": true

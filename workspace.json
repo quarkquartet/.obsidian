@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_Template/weekly_note.md",
+                "file": "00-Diary/2023/2023-W52.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,15 +47,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Diary/2023/2023-12-24-W52.md",
+                "file": "00-Diary/2023/2023-12-30, Sat.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -139,7 +138,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00-Diary/2023/2023-12-24-W52.md"
+                "file": "00-Diary/2023/2023-W52.md"
               }
             }
           },
@@ -177,7 +176,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Diary/2023/2023-12-24-W52.md",
+                "file": "00-Diary/2023/2023-W52.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +188,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Diary/2023/2023-12-24-W52.md",
+                "file": "00-Diary/2023/2023-W52.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -225,7 +224,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Diary/2023/2023-12-24-W52.md"
+                "file": "00-Diary/2023/2023-W52.md"
               }
             }
           }
@@ -254,15 +253,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "b8da8760c68e38ea",
+  "active": "415a8e4350eb60bf",
   "lastOpenFiles": [
+    "_Template/weekly_note.md",
+    "00-Diary/2023/2023-W52.md",
+    "00-Diary/2023/2023-12-30, Sat.md",
     "00-Diary/2023/2023-12-17, Sun.md",
     "00-Diary/2023/2023-12-10-W50.md",
     "00-Diary/2023/2023-12-24-W52.md",
-    "_Template/weekly_note.md",
     "00-Diary/2023/2023-W51.md",
-    "00-Diary/2023/2023-W52.md",
-    "00-Diary/2023/2023-12-30, Sat.md",
     "00-Diary/2023-W52.md",
     "00-Diary/2023/2023-12-24-W51.md",
     "00-Diary/2023/2023-12-30-W52.md",
