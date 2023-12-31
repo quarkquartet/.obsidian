@@ -1,7 +1,1 @@
-# Installation
-
-Go to your obsidian directory. Then
-
-```sh
-git clone https://github.com/quarkquartet/Obsidian-config .obsidian
-```
+This is for private use. No guarantee for a perfect behavior.
