@@ -8,46 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "415a8e4350eb60bf",
+            "id": "41a52391e5700427",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Diary/2023/2023-W52.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3ae84860b7f8d236",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "02-Projects/2023-12 Probing Freeze-out Mediator/2023-12 Thermal-Relic Encyclopedia.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "91acff93adfbd2ca",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "b8da8760c68e38ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "00-Diary/2023/2023-12-30, Sat.md",
+                "file": "10-Physics and Math/1001-Literature/@jinnoGravitationalWavesBubble2017.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -73,7 +39,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#bubble-collision",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": true,
@@ -138,7 +104,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "00-Diary/2023/2023-W52.md"
+                "file": "23-Sports/3003-Swimming/游泳训练数据整理.md"
               }
             }
           },
@@ -176,7 +142,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "00-Diary/2023/2023-W52.md",
+                "file": "10-Physics and Math/1001-Literature/@jinnoGravitationalWavesBubble2017.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -188,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "00-Diary/2023/2023-W52.md",
+                "file": "10-Physics and Math/1001-Literature/@jinnoGravitationalWavesBubble2017.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -224,11 +190,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "00-Diary/2023/2023-W52.md"
+                "file": "10-Physics and Math/1001-Literature/@jinnoGravitationalWavesBubble2017.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -241,66 +208,64 @@
       "canvas:Create new canvas": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "remotely-save:Remotely Save": false,
       "obsidian-rich-links:Rich Links": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "darlal-switcher-plus:Open in Headings Mode": false,
       "darlal-switcher-plus:Open Symbols for the active editor": false,
-      "card-board:CardBoard": false,
-      "dbfolder:Create a new database table": false,
       "daily-notes:Open today's daily note": false,
+      "dbfolder:Create a new database table": false,
       "periodic-notes:Open today": false
     }
   },
-  "active": "415a8e4350eb60bf",
+  "active": "41a52391e5700427",
   "lastOpenFiles": [
-    "_Template/weekly_note.md",
-    "00-Diary/2023/2023-W52.md",
-    "00-Diary/2023/2023-12-30, Sat.md",
-    "00-Diary/2023/2023-12-17, Sun.md",
-    "00-Diary/2023/2023-12-10-W50.md",
-    "00-Diary/2023/2023-12-24-W52.md",
-    "00-Diary/2023/2023-W51.md",
-    "00-Diary/2023-W52.md",
-    "00-Diary/2023/2023-12-24-W51.md",
-    "00-Diary/2023/2023-12-30-W52.md",
-    "_Template/daily_note.md",
-    "2023-12-30.md",
-    "00-Diary/2023/2023-12-29, Fri.md",
-    "00-Diary/2023/2023-12-28, Thu.md",
-    "00-Diary/2023/2023-12-27, Wed.md",
-    "00-Diary/2023/2023-12-26, Tue.md",
-    "00-Diary/2023/2023-12-25, Mon.md",
-    "00-Diary/2023/2023-12-24, Sun.md",
-    "_Template/date.md",
-    "00-Diary/2023/2023-12-03-W49.md",
-    "00-Diary/2023/2023-12-17-W51.md",
+    "01-Management/Paper Reading and Idea Collection.md",
+    "10-Physics and Math/1001-Literature/@jinnoGravitationalWavesBubble2017.md",
+    "@jinnoGravitationalWavesBubble2017.md",
+    "01-Management/Task and Agenda View.md",
     "02-Projects/2023-12 Probing Freeze-out Mediator/2023-12 Thermal-Relic Encyclopedia.md",
-    "00-Diary/2023/2023-12-31, Sun.md",
+    "00-Diary/2024/2024-01-14, Sun.md",
+    "00-Diary/2024/2024-01-12, Fri.md",
+    "00-Diary/2024/2024-01-13, Sat.md",
     "inbox.md",
-    "00-Diary/2023/2023-01-03, Tue.md",
-    "00-Diary/2022/2022-01-01, Sat.md",
-    "00-Diary/2023",
-    "00-Diary/2022",
-    "00-Diary/2021",
+    "10-Physics and Math/1001-Literature/@hongBaryogenesisSphaleronDecoupling2023.md",
+    "01-Management/Conferences.md",
+    "10-Physics and Math/1001-Literature/@Abbiendi_2020sxw.md",
+    "10-Physics and Math/1001-Literature/@aaboudSearchNewHighmass2017.md",
+    "02-Projects/2023-1 DM Parity/2023-1 DM Parity.md",
+    "00-Diary/2022/2022-08-08, Mon.md",
+    "01-Management/Inbox-Reading.md",
+    "00-Diary/2022/2022-08-06, Sat.md",
+    "00-Diary/2022/2022-08-07, Sun.md",
+    "02-Projects/2023-1 DM Parity/Particle decay.md",
+    "01-Management/Conferences and Talks.md",
+    "01-Management/Work.md",
+    "01-Management/Errands.md",
+    "01-Management/Daily Reading.md",
+    "01-Management/Computer Technique.md",
+    "02-Projects/2023-12 Thermal Relic Encyclopedia/Search for scalar coupling with bottom.md",
+    "00-Diary/2024/2024-01-11, Thu.md",
     "02-Projects/2023-12 Probing Freeze-out Mediator",
-    "02-Projects/Portal Particle Search",
-    "13-Academic Related Reading/李归农语录",
-    "13-Academic Related Reading",
+    "~/Dropbox/Project/2020-12-Axiogenesis_SU2R/share/Submission/JHEP_final",
+    "~/Dropbox/Project/2020-12-Axiogenesis_SU2R/share/Submission",
+    "~/Dropbox/Project/2020-12-Axiogenesis_SU2R/share",
+    "~/Dropbox/Project/2020-12-Axiogenesis_SU2R",
+    "~/Dropbox/Project",
+    "~/Dropbox",
+    "~",
+    "00-Diary/2024",
+    "00-Diary/2023",
     "01-Management/Attachments/Pasted image 20231104183001.png",
     "01-Management/Attachments/IMG_0792.jpeg",
     "01-Management/Attachments/Pasted image 20231005171317.png",
     "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011555.jpeg",
     "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011555.png",
-    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011555.png.sb-538636d3-AYFsY3",
     "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011540.png",
     "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011513.png",
     "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011501.png",
     "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011433.png",
     "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011357.png",
-    "01-Management/Attachments",
-    "_Template/script/copy_canvas_node_text.js",
     "Untitled.canvas"
   ]
 }

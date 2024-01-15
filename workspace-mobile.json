@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "00-Diary/2023-07-04, Tue.md",
+                "file": "00-Diary/2024/2024-01-08, Mon.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -94,7 +94,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "00-Diary/2023-07-04, Tue.md",
+            "file": "00-Diary/2024/2024-01-08, Mon.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -111,7 +111,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "00-Diary/2023-07-04, Tue.md",
+            "file": "00-Diary/2024/2024-01-08, Mon.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +123,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "00-Diary/2023-07-04, Tue.md"
+            "file": "00-Diary/2024/2024-01-08, Mon.md"
           }
         }
       },
@@ -136,7 +136,7 @@
         }
       },
       {
-        "id": "577eb85bf951da7a",
+        "id": "987509bad63b8f2d",
         "type": "leaf",
         "state": {
           "type": "todo",
@@ -148,11 +148,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "table-editor-obsidian:Advanced Tables Toolbar": false,
-      "darlal-switcher-plus:Open in Headings Mode": false,
-      "darlal-switcher-plus:Open Symbols for the active editor": false,
       "obsidian-rich-links:Rich Links": false,
-      "templater-obsidian:Templater": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -160,56 +156,60 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "remotely-save:Remotely Save": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "darlal-switcher-plus:Open in Headings Mode": false,
+      "darlal-switcher-plus:Open Symbols for the active editor": false,
+      "templater-obsidian:Templater": false,
       "periodic-notes:Open today": false
     }
   },
   "active": "0dfefb691c0a2df1",
   "lastOpenFiles": [
-    "00-Diary/2023-07-05, Wed.md",
-    "11-Computer Technique/1108-Uncategorized/mac微信修复工具.md",
-    "11-Computer Technique/1108-Uncategorized/mac微信使用默认浏览器打开链接.md",
-    "11-Computer Technique/1108-Uncategorized/mac和iOS上几种邮件客户端的对比.md",
-    "11-Computer Technique/1107-CSS and HTML/Define same font with different style in @font-face.md",
-    "11-Computer Technique/1107-CSS and HTML",
-    "11-Computer Technique/1108-Uncategorized",
-    "00-Diary/2023-07-03, Mon.md",
-    "00-Diary/2023-07-04, Tue.md",
-    "02-Projects/Thesis.md",
-    "00-Diary/2023-06-23, Fri.md",
-    "00-Diary/2023-07-02, Sun.md",
-    "01-Management/Green Card.md",
-    "00-Diary/2023-06-28, Wed.md",
-    "00-Diary/2023-06-22, Thu.md",
-    "00-Diary/2023-06-24, Sat.md",
-    "00-Diary/2023-06-29, Thu.md",
-    "00-Diary/2023-06-25, Sun.md",
-    "00-Diary/2023-06-21, Wed.md",
-    "00-Diary/2023-06-10, Sat.md",
-    "00-Diary/2023-06-15, Thu.md",
-    "00-Diary/2023-06-13, Tue.md",
-    "00-Diary/2023-06-12, Mon.md",
-    "30-Sports/3002-NBA/回合和得分的时代变化.md",
-    "30-Sports/3002-NBA/Attachments/WechatIMG27295.png",
-    "30-Sports/3002-NBA/Attachments/WechatIMG27301.jpeg",
-    "30-Sports/3002-NBA/Attachments/WechatIMG27305.jpeg",
-    "30-Sports/3002-NBA/Attachments/WechatIMG27309.jpeg",
-    "00-Diary/2023-06-05, Mon.md",
-    "00-Diary/2023-06-08, Thu.md",
-    "00-Diary/2023-06-09, Fri.md",
-    "02-Projects/2023-2 SFOPT ALP/2023-2 SFOPT ALP.md",
-    "02-Projects/2023-2 SFOPT ALP",
-    "rename_diary.py",
-    "style-settings.json",
-    "20-Politics/Attachments/8-values.png",
-    "20-Politics/Attachments/Dem vs Rep.jpg",
-    "20-Politics/Attachments/Chinesetest.png",
-    "20-Politics/Attachments/WPost-Russia.png",
-    "20-Politics/Attachments/CraigListRussia.jpg",
-    "10-Physics and Math/1001-Literature/Library.bib",
-    "20-Politics/Attachments/2022-09-03 22.41.40.jpg",
-    "10-Physics and Math/1001-Literature/library.json",
-    "10-Physics and Math/1001-Literature/citationCSL.json",
-    "10-Physics and Math/1003-Notes/Attachment/Untitled-5.nb",
-    "20-Politics/Attachments/Covid_policy_by_universities.xlsx"
+    "00-Diary/2024/2024-W02.md",
+    "00-Diary/2024/2024-01-07, Sun.md",
+    "00-Diary/2024/2024-01-05, Fri.md",
+    "00-Diary/2024/2024-01-08, Mon.md",
+    "00-Diary/2024/2024-01-06, Sat.md",
+    "00-Diary/2024/2024-W01.md",
+    "00-Diary/2024/2024-01-04, Thu.md",
+    "00-Diary/2024/2024-01-02, Tue.md",
+    "00-Diary/2024/2024-01-03, Wed.md",
+    "_Template/daily_note.md",
+    "02-Projects/2023-1 DM Parity/Particle decay.md",
+    "inbox.md",
+    "_Template/weekly_note.md",
+    "00-Diary/2024/2024-01-01, Mon.md",
+    "00-Diary/2024-01-02, Tue.md",
+    "00-Diary/2023/2023-12-31, Sun.md",
+    "00-Diary/2024",
+    "00-Diary/2023-12-31, Sun.md",
+    "23-Sports/3003-Swimming/游泳二级提升记录.md",
+    "00-Diary/2023/2023-W52.md",
+    "00-Diary/2023/2023-11-13-W46.md",
+    "00-Diary/2023/2023-06-13, Tue.md",
+    "00-Diary/2023/2023-12-03-W49.md",
+    "00-Diary/2023/2023-12-10-W50.md",
+    "00-Diary/2023/2023-11-20-W47.md",
+    "00-Diary/2023/2023-11-28-W48.md",
+    "00-Diary/2023/2023-12-30, Sat.md",
+    "00-Diary/2023",
+    "00-Diary/2022",
+    "00-Diary/2021",
+    "02-Projects/2023-12 Probing Freeze-out Mediator",
+    "13-Academic Related Reading/李归农语录",
+    "13-Academic Related Reading",
+    "01-Management/Attachments/Pasted image 20231104183001.png",
+    "01-Management/Attachments/IMG_0792.jpeg",
+    "01-Management/Attachments/Pasted image 20231005171317.png",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011513.png",
+    "01-Management/Attachments/Pasted image 20230928142124.png",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011540.png",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011433.png",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011501.png",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011324.png",
+    "23-Sports/3003-Swimming/Attachments/Pasted image 20231005011555.jpeg",
+    "99-Attach/memos.url",
+    "_Template/script/openOb.js",
+    "_Template/script/notice.js"
   ]
 }

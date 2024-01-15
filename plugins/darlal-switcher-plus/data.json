@@ -52,6 +52,6 @@
   ],
   "showOptionalIndicatorIcons": true,
   "overrideStandardModeBehaviors": true,
-  "version": "1.0.0",
-  "bookmarksListCommand": "'"
+  "bookmarksListCommand": "'",
+  "version": "2.0.0"
 }

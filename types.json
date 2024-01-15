@@ -4,10 +4,11 @@
     "cssclasses": "multitext",
     "tags": "tags",
     "exercise-content": "multitext",
-    "reading": "checkbox",
-    "exercise": "checkbox",
+    "reading": "text",
+    "exercise": "multitext",
     "date": "date",
     "weekly_note": "text",
-    "note_type": "text"
+    "note_type": "text",
+    "cost": "number"
   }
 }

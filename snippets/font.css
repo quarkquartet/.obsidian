@@ -1,0 +1,83 @@
+:root {
+    --font-size-normal: 13px;
+    --font-size-code: 13px;
+    --font-size-status-bar: 13px;
+    --font-size-h1: 13px;
+    --font-size-h2: 13px;
+    --font-size-h3: 13px;
+    --font-size-h4: 13px;
+    --font-size-h5: 13px;
+    --font-size-h6: 13px;
+    --font-family-editor: sans-serif;
+    --font-family-preview: sans-serif;
+}
+
+.body {
+    --h1-size: 1.5em;
+    --h2-size: 1.4em;
+    --h3-size: 1.3em;
+    --h4-size: 1.2em;
+    --h5-size: 1.1em;
+    --h6-size: 1.0em;
+}
+
+.titlebar {
+    background-color: var(--background-primary);
+    color: var(--text-normal)
+}
+
+.titlebar-inner {
+    color: var(--text-normal)
+}
+
+.titlebar-text {
+    color: var(--text-normal);
+    background-color: var(--background-primary);
+}
+
+mjx-math {
+    font-size: 120% !important;
+}
+
+body .status-bar {
+    font-family: sans-serif;
+}
+
+.markdown-preview-view,
+.mod-single-child .markdown-preview-view {
+    padding-top: 0px;
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.markdown-source-view.mod-cm6.is-readable-line-width:not(.is-rtl) .cm-contentContainer {
+    max-width: 1500px;
+}
+
+.markdown-source-view.mod-cm6 .math-block>mjx-container {
+    padding: 0.15em;
+}
+
+.admonition.admonition-content-holder {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+
+.cm-line {
+    line-height: 1.6
+}
+
+.markdown-source-view.mod-cm6 .cm-scroller {
+    padding: 30px
+}
+
+/*.cm-line .cm-hmd-frontmatter {
+    font-family: InconsolataGo Nerd Font Mono;
+    font-size: 15px
+}
+
+.cm-s-obsidian span.cm-inline-code {
+    font-family: InconsolataGo Nerd Font Mono;
+    font-size: 15px
+}
+*/

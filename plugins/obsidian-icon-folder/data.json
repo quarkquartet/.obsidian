@@ -6,11 +6,11 @@
     "emojiStyle": "none",
     "iconColor": "#187df8",
     "recentlyUsedIcons": [
+      "TiSwimming",
+      "TiCode",
       "TiBook",
       "LiMail",
-      "FasKitMedical",
-      "RiBankFill",
-      "FasHeart"
+      "FasKitMedical"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -20,7 +20,11 @@
       "bottom": 0,
       "left": 0
     },
-    "iconInTabsEnabled": false
+    "iconInTabsEnabled": false,
+    "iconInTitleEnabled": false,
+    "iconInFrontmatterEnabled": false,
+    "iconsBackgroundCheckEnabled": false,
+    "iconsInNotesEnabled": true
   },
   "_Template": "TiCode",
   "00-Diary": "FasBookOpen",
@@ -42,5 +46,6 @@
   "34-Finance": "RiBankFill",
   "35-Health": "FasKitMedical",
   "inbox.md": "LiMail",
-  "13-Academic Related Reading": "TiBook"
+  "13-Academic Related Reading": "TiBook",
+  "23-Sports/3003-Swimming": "TiSwimming"
 }

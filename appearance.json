@@ -1,27 +1,10 @@
 {
   "accentColor": "",
   "enabledCssSnippets": [
-    "custom",
-    "【Linkcard】",
-    "【Memos】Popover",
-    "【Query】keep-live",
-    "【列表】ob列表转换表格",
-    "【卡片视图】cards",
-    "【卡片视图】zettelkasten",
-    "【图标】双链图标",
-    "【图标】预览网址加图标 - External Link Icons",
-    "【天气】weather",
-    "【日记】periodic日历",
-    "【日记】Time",
-    "【日记】timeline",
-    "【特效】fireworks",
-    "custom-admonitions.c9c6cb",
-    "【自定义】表格样式TableStyles"
+    "font",
+    "custom"
   ],
-  "theme": "moonstone",
+  "theme": "system",
   "cssTheme": "Border",
-  "baseFontSize": 15,
-  "showViewHeader": true,
-  "nativeMenus": true,
-  "textFontFamily": ""
+  "baseFontSize": 15
 }
